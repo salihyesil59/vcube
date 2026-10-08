@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Claude Code
+.claude/
+
+# Data (downloaded from Harvard Dataverse, not committed)
+data/
+
+# pytest
+.pytest_cache/
